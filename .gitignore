@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Runtime data (large media, not source)
+uploads/
+outputs/
+
+# Logs
+*.log
